@@ -1,8 +1,5 @@
 package org.launchcode.models;
 
-/**
- * Created by LaunchCode
- */
 public enum CheeseType {
 
     HARD ("Hard"),
@@ -18,5 +15,4 @@ public enum CheeseType {
     public String getName() {
         return name;
     }
-
 }
